@@ -15,19 +15,19 @@
 
 透過 `STREAM` 指令查詢實況狀態，並確認機器人能正確回傳相關訊息。
 
-![STREAM 指令回傳實況狀態訊息](https://cdn.discordapp.com/attachments/1051148177769767045/1559234403945680996/2026-10-12_235929.png)
+![STREAM 指令回傳實況狀態訊息]([https://cdn.discordapp.com/attachments/1051148177769767045/1559234403945680996/2026-10-12_235929.png](https://cdn.discordapp.com/attachments/1051148177769767045/1559234403945680996/2026-10-12_235929.png?ex=6ace55b3&is=6acd0433&hm=6c5237e0b666fc3340a9d0182e663010d314282159673ec4d9077ab6cf71ffc6&))
 
 ### 2. 追蹤連結管理
 
 提供新增追蹤連結及查看追蹤列表的功能，讓使用者能管理想追蹤的實況頻道。
 
-![新增追蹤連結及查看追蹤列表](https://cdn.discordapp.com/attachments/1051148177769767045/1559234404692529213/2026-10-12_235857.png)
+![新增追蹤連結及查看追蹤列表]([https://cdn.discordapp.com/attachments/1051148177769767045/1559234404692529213/2026-10-12_235857.png](https://cdn.discordapp.com/attachments/1051148177769767045/1559234404692529213/2026-10-12_235857.png?ex=6ace55b3&is=6acd0433&hm=d04214d4149b8b78b5896eb4c1bd1f14e95d3860b9a0b8e21c15e988832a4209&))
 
 ### 3. Hololive 行程表查詢
 
 透過指令取得 Hololive 行程表的回傳內容，方便使用者查看相關行程資訊。
 
-![Hololive 行程表指令回傳內容](https://cdn.discordapp.com/attachments/1051148177769767045/1559234405128609812/2026-10-12_235920.png)
+![Hololive 行程表指令回傳內容]([https://cdn.discordapp.com/attachments/1051148177769767045/1559234405128609812/2026-10-12_235920.png](https://cdn.discordapp.com/attachments/1051148177769767045/1559234405128609812/2026-10-12_235920.png?ex=6ace55b3&is=6acd0433&hm=bdb1d44fb7abd3701d04099af3e3a85e7e2facc0b2c552ecbf48074a21bbd4f9&))
 
 ## 使用技術
 
