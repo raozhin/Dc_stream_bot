@@ -29,6 +29,10 @@
 
 ![Hololive 行程表指令回傳內容](https://cdn.discordapp.com/attachments/1051148177769767045/1559234405128609812/2026-10-12_235920.png?ex=6ace55b3&is=6acd0433&hm=bdb1d44fb7abd3701d04099af3e3a85e7e2facc0b2c552ecbf48074a21bbd4f9&)
 
+### 4. 自動化
+
+使用者可手動開關是否要每五分鐘檢查一次是否有直播與每日00:00發送 Hololive 行程表消息
+
 ## 使用技術
 
 - **Python：** 機器人功能與指令處理
